@@ -1,0 +1,4 @@
+# GitHub Pages 用 Jekyll 构建，默认不复制点开头的目录；
+# 必须显式 include，.well-known/assetlinks.json 才会被发布
+include:
+  - ".well-known"
