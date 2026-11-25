@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.soldier009.stockledger",
+      "sha256_cert_fingerprints": [
+        "B7:AD:64:A2:40:FB:83:17:4C:22:DF:A9:B6:62:44:4E:28:6F:27:30:10:AE:B8:C5:5F:61:AF:23:BC:F7:7C:D1"
+      ]
+    }
+  }
+]
